@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+ul {
+    list-style-type: square; /* Cambia el estilo de la lista no ordenada */
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+
+ol {
+    list-style-type: decimal-leading-zero; /* Añade ceros iniciales */
+    padding: 10px;
+    background-color: #eef;
+}
